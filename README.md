@@ -218,7 +218,7 @@ Having issues? Here's how to get help:
 ---
 
 <div align="center">
-  <p>Made with ❤️ by <a href="https://github.com/yourusername">Your Name</a></p>
+  <p>Made with ❤️ by <a href="https://github.com/altusrossouw">Altus Rossouw</a></p>
   <p>
     <a href="#-features">Features</a> •
     <a href="#-quick-start">Quick Start</a> •
